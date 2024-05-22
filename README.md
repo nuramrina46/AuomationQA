@@ -1,1 +1,1 @@
-# AuomationQA
+# KatalonTraining
